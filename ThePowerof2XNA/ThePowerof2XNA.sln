@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThePowerof2XNA", "ThePowerof2XNA\ThePowerof2XNA\ThePowerof2XNA.csproj", "{A3099027-2CC4-4FE2-8A5F-08B7E4646261}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ThePowerof2XNAContent", "ThePowerof2XNA\ThePowerof2XNAContent\ThePowerof2XNAContent.contentproj", "{F865F48B-BC04-45C5-8102-BEA8CB582EA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{645CCFC1-F6F2-4A95-8F82-FA5EE2A6BF7D}"
+	ProjectSection(SolutionItems) = preProject
+		Tile.cs = Tile.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3099027-2CC4-4FE2-8A5F-08B7E4646261}.Debug|x86.ActiveCfg = Debug|x86
+		{A3099027-2CC4-4FE2-8A5F-08B7E4646261}.Debug|x86.Build.0 = Debug|x86
+		{A3099027-2CC4-4FE2-8A5F-08B7E4646261}.Release|x86.ActiveCfg = Release|x86
+		{A3099027-2CC4-4FE2-8A5F-08B7E4646261}.Release|x86.Build.0 = Release|x86
+		{F865F48B-BC04-45C5-8102-BEA8CB582EA8}.Debug|x86.ActiveCfg = Debug|x86
+		{F865F48B-BC04-45C5-8102-BEA8CB582EA8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
